@@ -1,3 +1,1 @@
-# in-correspondence-with
-
 we are tentatively in correspondence with...
