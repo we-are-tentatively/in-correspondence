@@ -32,4 +32,4 @@ s.kawano [@kkhaiya](http://twitter.com/kkhaiya)
 ***
 ***
 
-* [back to the top](https://we-are-tentatively.github.io/in-correspondence)  *
+**[back to the main page](https://we-are-tentatively.github.io/in-correspondence)**
