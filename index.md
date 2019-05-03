@@ -6,4 +6,4 @@ we are tentatively in correspondence ...
 
 ### 20190413 [with-dogs](https://we-are-tentatively.github.io/in-correspondence/20190409-with-dogs)
 
-### 2019**** [with-ourselves](https://we-are-tentatively.github.io/in-correspondence/with-ourselves)
+### 2019XXXX [with-ourselves](https://we-are-tentatively.github.io/in-correspondence/with-ourselves)
