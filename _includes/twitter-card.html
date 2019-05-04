@@ -16,9 +16,9 @@
 {% endif %}
 
 {% if page.image %}
-  <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image }}" />
+  <meta name="twitter:image" content="{{ page.image }}" />
 {% else if site.description %}
-  <meta name="twitter:image" content="{{ site.url }}/images/{{ site.image }}" />
+  <meta name="twitter:image" content="{{ site.image }}" />
 {% else %}
   <meta name="twitter:image" content="https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg" />
 
