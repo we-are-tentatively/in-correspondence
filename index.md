@@ -5,9 +5,7 @@ description: "ぼくたちはGithubを、すっくと立つことを拒む複数
 image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
 ---
 
-### index
-
-we are tentatively in correspondence ...
+## we are tentatively in correspondence ...
 
 * ##### 20190502 [with kurashi](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
 
@@ -19,7 +17,7 @@ we are tentatively in correspondence ...
 ***
 ***
 
-### where we are
+## where we are
 
 The momentum an organism is able to gain on being a person, or rather, on behaving as one--that set of conditions, born of actions taken, that makes person-formation possible--depends directly on how it positions its body. Surroundings invite, provoke, and entice persons to perform actions, and the enactiong motions of these actions  not only serve up alternate vantage points but also inevitably shift sense organs about. The shifting about of the sense organs naturally affects how a person fields her surroundings and has much to do with what of the surroundings ends up standing for or approximating _the surroundings_ . ( _Architectural Body_ )
  
@@ -45,6 +43,6 @@ The momentum an organism is able to gain on being a person, or rather, on behavi
 ***
 ***
 
-### where we talk
+## where we talk
 ひるめり [@hirumeri](http://twitter.com/hirumeri)  
 s.kawano [@kkhaiya](http://twitter.com/kkhaiya)
