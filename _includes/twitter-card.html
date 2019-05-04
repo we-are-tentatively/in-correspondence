@@ -9,7 +9,7 @@
 
 {% if page.description %}
   <meta name="twitter:description" content="{{ page.description }}" />
-{% else %}
+{% else if site.description %}
   <meta name="twitter:description" content="{{ site.description }}" />
 {% else %}
   <meta name="twitter:description" content="ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った。" />
@@ -17,7 +17,9 @@
 
 {% if page.image %}
   <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image }}" />
+{% else if site.description %}
+  <meta name="twitter:image" content="{{ site.url }}/images/{{ site.image }}" />
 {% else %}
-  <meta name="twitter:image" content="https://lynoting.github.io/testforpages/assets/images/in-correspondence.jpg" />
+  <meta name="twitter:image" content="https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg" />
 
 {% endif %}
