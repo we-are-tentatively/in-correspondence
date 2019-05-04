@@ -2,7 +2,7 @@
 layout: default
 title: with ourselves
 description: "ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った。"
-image: /assets/images/in-correspondence.jpg
+image:"https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
 ---
 
 # with ourselves
