@@ -1,0 +1,21 @@
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@kkhaiya" />
+
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}" />
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}" />
+{% endif %}
+
+{% if page.description %}
+  <meta name="twitter:description" content="{{ page.description }}" />
+{% else %}
+  <meta name="twitter:description" content="{{ site.description }}" />
+{% endif %}
+
+{% if page.image %}
+  <meta name="twitter:image" content="{{ site.url }}/images/{{ page.image }}" />
+{% else %}
+  <meta name="twitter:image" content="https://lynoting.github.io/testforpages/assets/images/in-correspondence.jpg" />
+
+{% endif %}
