@@ -7,25 +7,25 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-
 
 ## we are tentatively in correspondence ...
 
-* ##### 20190502 [with kurashi](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
+* #### 20190502 [with kurashi](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
 
-* ##### 20190429 [with isolation](https://we-are-tentatively.github.io/in-correspondence/2019-04-29-with-isolation) _under development_
+* #### 20190429 [with isolation](https://we-are-tentatively.github.io/in-correspondence/2019-04-29-with-isolation) _under development_
 
-* ##### 20190413 [with dogs](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_
+* #### 20190413 [with dogs](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_
 
 
 ## where we are
 
-The momentum an organism is able to gain on being a person, or rather, on behaving as one--that set of conditions, born of actions taken, that makes person-formation possible--depends directly on how it positions its body. Surroundings invite, provoke, and entice persons to perform actions, and the enactiong motions of these actions  not only serve up alternate vantage points but also inevitably shift sense organs about. The shifting about of the sense organs naturally affects how a person fields her surroundings and has much to do with what of the surroundings ends up standing for or approximating _the surroundings_ . ( _Architectural Body_ )
+The momentum an organism is able to gain on being a person, or rather, on behaving as one--that set of conditions, born of actions taken, that makes person-formation possible--depends directly on how it positions its body. Surroundings invite, provoke, and entice persons to perform actions, and the enactiong motions of these actions not only serve up alternate vantage points but also inevitably shift sense organs about. The shifting about of the sense organs naturally affects how a person fields her surroundings and has much to do with what of the surroundings ends up standing for or approximating _the surroundings_ . ( _Architectural Body_ )
  
-「有機体は人間であることを獲得でき、人間としての行動を獲得できる。それらにかかわるものが、人間へとなることを可能にする条件や生み出される行為の集合である。人間へとなるというこの傾向は、有機体が身体をどのように配置するかに直接依存している。環境は、人間に行為をおこなうよう促し、刺激し、そそのかし、これらの行為の進行しつうける運動が、利点を変化させるだけではなく、不可避的に感覚器官を変容させる。感覚器の変容は、当然のことであるあが、人間が環境のどこに位置し、環境のなにともっともかかわりをもつかに影響をあたえる。最終的には、人間は環境に対する位置をとり、漸近的に**環境的地平**に接近する。」（『建築する身体』）
- 
+「有機体は人間であることを獲得でき、人間としての行動を獲得できる。それらにかかわるものが、人間へとなることを可能にする条件や生み出される行為の集合である。人間へとなるというこの傾向は、有機体が身体をどのように配置するかに直接依存している。環境は、人間に行為をおこなうよう促し、刺激し、そそのかし、これらの行為の進行しつづける運動が、利点を変化させるだけではなく、不可避的に感覚器官を変容させる。感覚器の変容は、当然のことであるが、人間が環境のどこに位置し、環境のなにともっともかかわりをもつかに影響をあたえる。最終的には、人間は環境に対する位置をとり、漸近的に**環境的地平**に接近する。」（『建築する身体』）
+
  ***
  ***
  ***
  
 　Githubというのは一般にソースコード（ぼくたちとコンピュータのあいだを取り持つ素晴らしいテクスト）のバージョン管理のために用いられるサービスであるけれども、ぼくたちはこれをぜひともぼくたちの（！）バージョン管理のために用いてみようと思った。ぼくたちというのは、ぼくや、あいつやこいつや、まだ見ぬあなたがテクストを裏側から透かし出すための揺れ動く光源、取りも直さず言ってしまえば、すっくと立つことを拒む複数的な語り手のことだ。ソースコードというのはぼくたちにとって他なるものを構築するための命令文として透明に繰り出される（プログラマは少なくとも一人称ではありえないソフトウェアを記述する）けれど、いまぼくたちは、部分的にぼくたちでありながら部分的には他者であり、主体であるように精一杯ふるまいながらも輪郭から砂がこぼれおちていくようなぼくたちを、ぼくたちの内側にいくつかの視点を含ませたうえで、自然言語によって記述してみたいと思う。
- 　
+
 　gitにはチームによるソフトウェア開発の役に立つすぐれた仕組みがいろいろと備わっているのだけれど、自然言語の記述にもその一部をまるっきり転用できるということが短期間の試みですぐに分かった。複数人がひとつの連関したテクストを共同編集するとき、単に各々がローカルで編集したテクストを最新版として共有するだけでは、誰かほかのメンバーが同時に別のローカル環境で編集した内容が上書きされてしまうことがある。Googleドキュメントのように自動保存によってみんなで同時に編集を行えば確かにみんなの変更がリアルタイムでテクストに反映されるけれど、それにしても、だれがどこを編集したか分からなければ、なにを前提に部分を書き進めているのか不明になるのでテクストの全体がちゃんと作動しているのか分からない。同時編集によって起こりうるこうした不整合を回避するためにプログラマたちが充実させてきたのが、編集によって生じるテクストの差分をリモートおよびローカルで独立に管理するというgitの方法およびそれを用いたサービス（Githubなど）であるとぼくたちはひとまず理解している。
 
 　gitの主要な仕組みと概念は以下のような感じだ（とはいえぼくたちはプログラマではないので、詳しくはググってみてほしい）。メンバーそれぞれが作業するためのローカルリポジトリがそれぞれのPCかどこかにあり、それらの作業結果が集約されるリモートリポジトリがどこか遠くのサーバーに設置される。まず、初めてそのテクストの編集に参加するメンバーは、リモートからローカルへ、編集対象のテクストを丸ごとcloneする。そのあとそのテクストに対してローカルで変更を加えていき、その結果テクストの部分がある程度まとまって作動するようになったら、そのたびにその差分をローカルにcommitしておく。そして、みんなで編集しているテクストの全体と合わせても問題ない状態にまで変更を加え終えたらpushし、するとローカルでcommitしておいた差分がすべてリモートに反映される。cloneするのは最初の1回だけで、あとは作業を始める前にその都度リモートからpullするようにしておけば、みんながリモートに集積させた差分が今度はローカルのテクストへと反映される。
