@@ -1,3 +1,9 @@
+---
+layout: default
+title: in-correspondence
+description: ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った。
+---
+
 we are tentatively in correspondence ...
 
 ### 20190502 [with-kurashi](https://we-are-tentatively.github.io/in-correspondence/20190502-with-kurashi) _under development_
