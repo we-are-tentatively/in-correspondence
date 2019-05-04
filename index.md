@@ -42,7 +42,7 @@ The momentum an organism is able to gain on being a person, or rather, on behavi
 ***
 ***
  　　　　　
-### Twitter　　　　　
+### where we talk
 ひるめり [@hirumeri](http://twitter.com/hirumeri)  
 s.kawano [@kkhaiya](http://twitter.com/kkhaiya)
  　　　　　　
