@@ -1,3 +1,10 @@
+---
+layout: default
+title: with isolation
+description: "人口120人の、Rifという漁村です、と話したはずだ（少なくともぼくたちはそのように記憶している）。大きな半島の向こう側の小さなホステルに帰るために、その車に乗せてもらった。"
+image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
+---
+
 # with isolation
 ### 20190429
 

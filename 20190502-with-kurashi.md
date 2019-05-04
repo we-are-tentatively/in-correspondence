@@ -1,3 +1,10 @@
+---
+layout: default
+title: with kurashi
+description: "ぼくたちは吉祥寺の商店街に集合し、まず肉屋で豚肉の切り落としを買ったんだったよね。それから青果店で土のついた青葱と、きらきらひかるようなレモンおよび苺を。"
+image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
+---
+
 # with kurashi
 ### 20190502
 

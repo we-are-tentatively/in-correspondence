@@ -1,3 +1,10 @@
+---
+layout: default
+title: with ourselves
+description: "ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った。"
+image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
+---
+
 # with ourselves
 The momentum an organism is able to gain on being a person, or rather, on behaving as one--that set of conditions, born of actions taken, that makes person-formation possible--depends directly on how it positions its body. Surroundings invite, provoke, and entice persons to perform actions, and the enactiong motions of these actions  not only serve up alternate vantage points but also inevitably shift sense organs about. The shifting about of the sense organs naturally affects how a person fields her surroundings and has much to do with what of the surroundings ends up standing for or approximating _the surroundings_ . ( _Architectural Body_ )
   
