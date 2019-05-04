@@ -5,6 +5,8 @@ description: "ぼくたちはGithubを、すっくと立つことを拒む複数
 image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
 ---
 
+### index
+
 we are tentatively in correspondence ...
 
 #### 20190502 [with kurashi](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
@@ -13,7 +15,8 @@ we are tentatively in correspondence ...
 
 #### 20190413 [with dogs](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_
 
-#### 2019XXXX with ourselves _version 1.0_
+
+### where we are
 
 The momentum an organism is able to gain on being a person, or rather, on behaving as one--that set of conditions, born of actions taken, that makes person-formation possible--depends directly on how it positions its body. Surroundings invite, provoke, and entice persons to perform actions, and the enactiong motions of these actions  not only serve up alternate vantage points but also inevitably shift sense organs about. The shifting about of the sense organs naturally affects how a person fields her surroundings and has much to do with what of the surroundings ends up standing for or approximating _the surroundings_ . ( _Architectural Body_ )
  
@@ -34,12 +37,12 @@ The momentum an organism is able to gain on being a person, or rather, on behavi
 　このウェブサイトの上部に"View on Github"というボタンがあるので、これを試しに押下してみると、ぼくたちの使用しているリモートリポジトリに辿り着く。Github上のソースコードを変更するとそれがすぐさまこのウェブサイトとしてデプロイされるようにしているので、だからぼくたちが編集途中のわりあいぐしゃぐしゃのテキストもそのままウェブサイト上で見えてしまうという仕様だ（ソフトウェア開発なんかの際には未完のコードがそのままデプロイされてしまったらもちろん困るので、brunchという仕組みを使って開発用とデプロイ用の管理を分けているのだけど、ここではむしろプロセスが見えてしまってもよいと思ってunder developmentのテキストもそのままにしている）。もしこの場所を利用して誰かと何か書いてみたいと思う方がいらっしゃったら、Githubのアカウントをつくった上で、DMでもなんでもいいので連絡をいただけるとすごくすごく嬉しい（末尾にぼくたちのTwitterアカウントを記載しています）！　少なくともこの共同編集はやってみるとなぜだか異常に楽しいということは請け合いなので、どうぞ遊びにいらしてください。
 
 　ここはいわゆるオープンソースというやつだけど、それでもってLinuxとかWikipediaのように人類の叡智を加速的に集結させたいわけではぜんぜんない。むしろどこまでぼくたちがぼくたちの人間らしさ、近代的主体（！）らしさから遠く離れることができるのか（あくまでテクストの愉悦をやんわり保ちつつ、ということになると思うけど……）に興味があるし、翻ってそれぞれのテクストが唯一の完成に至るかという点はあまりこだわりがないような気がする（我々の辞書に脱稿の二文字はない！）。gitを使いたくて一人称複数を試みたのか、それとも一人称複数を用いたくてgitの方法を採用したのかを二者択一に問うことはできなくて、たぶん、どのようにすればもっと愉快で創発的な共同制作をやっていくことができるかを試してみたいだけだ。これからぼくたちがどのようなことを書いていくのかほとんど何も決まっていないけれど、少なくともこうした方法、つまりこのように形作った**環境**が、文体や時制や記憶を気持ちよくディスラプトしてぼくたちの詩情を、言語を、行為を、主体性を、感官を、新しい地平に連れて行ってくれたら、ということをうっすらぼんやり期待している。
- 　　　　　　
- ***
- ***
- ***
+
+***
+***
+***
  　　　　　
-#### Twitter　　　　　
+### Twitter　　　　　
 ひるめり [@hirumeri](http://twitter.com/hirumeri)  
 s.kawano [@kkhaiya](http://twitter.com/kkhaiya)
  　　　　　　
