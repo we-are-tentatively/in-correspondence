@@ -5,7 +5,7 @@ date: 2019-04-29
 status: "under development"
 description: "人口120人の、Rifという漁村です、と話したはずだ（少なくともぼくたちはそのように記憶している）。大きな半島の向こう側の小さなホステルに帰るために、その車に乗せてもらった。"
 image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/2019-04-29-with-isolation-3.jpeg"
-git-url: "https://we-are-tentatively.github.io/in-correspondence/_posts/2019-04-29-with-isolation"
+git-url: "https://we-are-tentatively.github.io/in-correspondence/2019-04-29-with-isolation"
 
 ---
 

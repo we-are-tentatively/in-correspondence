@@ -5,7 +5,7 @@ date: 2019-05-02
 status: "under development"
 description: "ぼくたちは吉祥寺の商店街に集合し、まず肉屋で豚肉の切り落としを買ったんだったよね。それから青果店で土のついた青葱と、きらきらひかるようなレモンおよび苺を。"
 image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
-git-url: "https://we-are-tentatively.github.io/in-correspondence/_posts/2019-05-02-with-kurashi"
+git-url: "https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi"
 
 ---
 
