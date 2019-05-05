@@ -7,12 +7,11 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-
 
 ## we are tentatively in correspondence ...
 
-* #### 20190502 [with kurashi（副題未定）](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
+<!-- * #### 20190502 [with kurashi（副題未定）](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
 
 * #### 20190429 [with isolation（副題未定）](https://we-are-tentatively.github.io/in-correspondence/2019-04-29-with-isolation) _under development_
 
-* #### 20190413 [with dogs（ぼくたちは森を何度でも訪れる。都市から、海の底から、杣道を通って。）](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_
-
+* #### 20190413 [with dogs（ぼくたちは森を何度でも訪れる。都市から、海の底から、杣道を通って。）](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_ -->
 
 <ul>
   {% for post in site.posts %}
