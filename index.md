@@ -1,17 +1,17 @@
 ---
 layout: default
-title: in correspondence
-description: "ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った。"
+title: in correspondence（ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った）
+description: "Githubというのは一般にソースコード（ぼくたちとコンピュータのあいだを取り持つ素晴らしいテクスト）のバージョン管理のために用いられるサービスであるけれども、ぼくたちはこれをぜひともぼくたちの（！）バージョン管理のために用いてみようと思った。"
 image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
 ---
 
 ## we are tentatively in correspondence ...
 
-* #### 20190502 [with kurashi](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
+* #### 20190502 [with kurashi（副題未定）](https://we-are-tentatively.github.io/in-correspondence/2019-05-02-with-kurashi) _under development_
 
-* #### 20190429 [with isolation](https://we-are-tentatively.github.io/in-correspondence/2019-04-29-with-isolation) _under development_
+* #### 20190429 [with isolation（副題未定）](https://we-are-tentatively.github.io/in-correspondence/2019-04-29-with-isolation) _under development_
 
-* #### 20190413 [with dogs](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_
+* #### 20190413 [with dogs（ぼくたちは森を何度でも訪れる。都市から、海の底から、杣道を通って。）](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_
 
 
 ## where we are
