@@ -13,13 +13,13 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-
 
 * #### 20190413 [with dogs（ぼくたちは森を何度でも訪れる。都市から、海の底から、杣道を通って。）](https://we-are-tentatively.github.io/in-correspondence/2019-04-09-with-dogs) _version 1.0_ -->
 
- <ul>
+ <!-- <ul>
   {% for post in site.posts %}
     <li>
       <font size="+3" color=""><b>{{ post.date }} <a href="{{ post.url }}">{{ post.title }}</b></a></font>
     </li>
   {% endfor %}
-</ul> 
+</ul>  -->
 
 ## where we are
 
