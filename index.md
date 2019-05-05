@@ -1,7 +1,7 @@
 ---
 layout: default
-title: in correspondence
-description: "ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った。"
+title: in correspondence（ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った）
+description: "ぼくたちはGithubを、すっくと立つことを拒む複数的な語り手の（！）バージョン管理のためにぜひとも用いてみようと思った"
 image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
 ---
 
