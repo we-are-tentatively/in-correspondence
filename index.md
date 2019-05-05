@@ -10,7 +10,7 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-
 <ul>
   {% for post in site.posts %}
     <li>
-      <font size="+3" color=""><b>{{ post.date }} <a href="{{ post.url }}">{{ post.title }}</a></b></font>
+      <b><font size="+2" color="">{{ post.date }} <a href="{{ post.url }}">{{ post.title }}</a></font></b>
     </li>
   {% endfor %}
 </ul>  
