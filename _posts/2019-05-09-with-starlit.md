@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "with kurashi（副題未定）"
+title: "with starlit（副題未定）"
 date: 2019-05-09
 status: "under development"
 description: "説明書き未定"
