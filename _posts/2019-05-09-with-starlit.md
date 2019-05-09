@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "with starlit（副題未定）"
+title: "with starlit（subtitle--TBD）"
 date: 2019-05-09
 status: "under development"
-description: "説明書き未定"
+description: "description--TBD"
 image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-correspondence.jpg"
 ---
 

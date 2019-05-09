@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "with isolation（副題未定）"
+title: "with isolation（subtitle--TBD）"
 date: 2019-04-29
 status: "under development"
 description: "人口120人の、Rifという漁村です、と話したはずだ（少なくともぼくたちはそのように記憶している）。大きな半島の向こう側の小さなホステルに帰るために、その車に乗せてもらった。"

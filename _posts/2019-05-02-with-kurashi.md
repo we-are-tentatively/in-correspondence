@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "with kurashi（副題未定）"
+title: "with kurashi（subtitle--TBD）"
 date: 2019-05-02
 status: "under development"
 description: "ぼくたちは吉祥寺の商店街に集合し、まず肉屋で豚肉の切り落としを買ったんだったよね。それから青果店で土のついた青葱と、きらきらひかるようなレモンおよび苺を。"
