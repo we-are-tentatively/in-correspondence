@@ -75,5 +75,7 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/in-
 ***
 ***
 
+　そういえばぼくたちは、毎夏いっしょに短い転居をしているよね。あの場はホテルではなく住宅であり、ぼくたちは実質ウィークリーマンションのような使い方をしている。
+
 
 **[back to the main page](https://we-are-tentatively.github.io/in-correspondence)**
