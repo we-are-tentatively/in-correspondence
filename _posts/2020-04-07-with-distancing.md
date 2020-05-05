@@ -18,8 +18,6 @@ image: ""
 言葉をなめらかに話せるようになったあとのぼくたちも、ひとりで道を往くことが多数でひしめきながら歩くことと根本的に異なるものだと知っている。ありきたりの比喩ではなく、歩く経験そのものについて。
 
 ***
-***
-***
 
 
 **[back to the main page](https://we-are-tentatively.github.io/in-correspondence)**

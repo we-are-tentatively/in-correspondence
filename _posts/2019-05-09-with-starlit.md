@@ -16,8 +16,6 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/201
 
 
 ***
-***
-***
 
 
 衛星屑は、三日三晩降り続いている。星屑みたいに素敵な、過去の欠片たちが還ってくる季節、ほとんどは使えないものだけど、中には再利用できる部品もある(大気圏のある惑星では燃え尽きてしまうんだってね)、光源に透かしてみると、ぼんやりと青白くひかりを帯びるので灯り代わりにもなる。
@@ -45,8 +43,6 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/201
 
 
 ***
-***
-***
 
 
 
@@ -65,8 +61,6 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/201
 
 
 ***
-***
-***
 
 
 
@@ -75,8 +69,6 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/201
 
 
 
-***
-***
 ***
 
 **[back to the main page](https://we-are-tentatively.github.io/in-correspondence)**
