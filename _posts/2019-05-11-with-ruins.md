@@ -11,6 +11,8 @@ image: "https://we-are-tentatively.github.io/in-correspondence/assets/images/201
 
 #### {{page.date | date_to_string }}
 
+***
+
 
 　とにかくたくさん食べて、よく眠ること。
 
