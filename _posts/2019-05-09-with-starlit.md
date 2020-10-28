@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "with starlit（subtitle:TBD）"
+title: "with starlit"
 date: 2019-05-09
 status: "under development"
 description: "リンデルンの第一世代、そう、ぼくたちのご先祖さまがどうやってこの星に暮らしていたのかなんていまとなってはもう、わかるはずのないことだね。それでも、星はたしかに自走していた、"
